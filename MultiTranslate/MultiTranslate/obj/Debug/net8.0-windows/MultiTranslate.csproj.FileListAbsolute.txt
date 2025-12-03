@@ -1,0 +1,14 @@
+C:\Users\vtef\source\repos\MultiTranslate\MultiTranslate\bin\Debug\net8.0-windows\MultiTranslate.exe
+C:\Users\vtef\source\repos\MultiTranslate\MultiTranslate\bin\Debug\net8.0-windows\MultiTranslate.deps.json
+C:\Users\vtef\source\repos\MultiTranslate\MultiTranslate\bin\Debug\net8.0-windows\MultiTranslate.runtimeconfig.json
+C:\Users\vtef\source\repos\MultiTranslate\MultiTranslate\bin\Debug\net8.0-windows\MultiTranslate.dll
+C:\Users\vtef\source\repos\MultiTranslate\MultiTranslate\bin\Debug\net8.0-windows\MultiTranslate.pdb
+C:\Users\vtef\source\repos\MultiTranslate\MultiTranslate\obj\Debug\net8.0-windows\MultiTranslate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vtef\source\repos\MultiTranslate\MultiTranslate\obj\Debug\net8.0-windows\MultiTranslate.AssemblyInfoInputs.cache
+C:\Users\vtef\source\repos\MultiTranslate\MultiTranslate\obj\Debug\net8.0-windows\MultiTranslate.AssemblyInfo.cs
+C:\Users\vtef\source\repos\MultiTranslate\MultiTranslate\obj\Debug\net8.0-windows\MultiTranslate.csproj.CoreCompileInputs.cache
+C:\Users\vtef\source\repos\MultiTranslate\MultiTranslate\obj\Debug\net8.0-windows\MultiTranslate.dll
+C:\Users\vtef\source\repos\MultiTranslate\MultiTranslate\obj\Debug\net8.0-windows\refint\MultiTranslate.dll
+C:\Users\vtef\source\repos\MultiTranslate\MultiTranslate\obj\Debug\net8.0-windows\MultiTranslate.pdb
+C:\Users\vtef\source\repos\MultiTranslate\MultiTranslate\obj\Debug\net8.0-windows\MultiTranslate.genruntimeconfig.cache
+C:\Users\vtef\source\repos\MultiTranslate\MultiTranslate\obj\Debug\net8.0-windows\ref\MultiTranslate.dll
